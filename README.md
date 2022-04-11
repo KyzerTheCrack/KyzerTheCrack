@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi I'm KyzerTheCrack 🔒 </h1>
 
-<!--
-**KyzerTheCrack/KyzerTheCrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Syraaax
 
-Here are some ideas to get you started:
+- 🎓 I am a student
+- 💻 I like video game
+- 🎇 I like to do development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+### What I know about programming 
+
+<a href=https://discord.gg/uf7K72exJA target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png alt="tools Visual Studio Code" width="26" /></a>
+<a href=https://discord.gg/uf7K72exJA target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
+<a href=https://discord.gg/uf7K72exJA target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png alt="languages Node.js"  width="26" /></a>
+
+
+<p>
+<a href=https://discord.gg/uf7K72exJA target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="AdemoShops" height="20" width="20" 
+</p>
+                                                       
+                                                 
